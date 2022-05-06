@@ -1,7 +1,7 @@
 // Packages
 import React, { useContext } from "react"
 import { Font, Grid } from "tsx-library-julseb"
-import { getFirstName } from "ts-utils-julseb"
+// import { getFirstName } from "ts-utils-julseb"
 
 // API
 import { AuthContext } from "../context/auth"
@@ -33,12 +33,15 @@ const Homepage = () => {
 
     return (
         <Page title="Homepage">
-            <Font.H1>Hello {getFirstName(user.fullName)}</Font.H1>
+            {/* <Font.H1>Hello {getFirstName(user.fullName)}</Font.H1> */}
+            <Font.H1>Hello {user.fullName}</Font.H1>
 
             <Font.H2>Tonight, you want to:</Font.H2>
 
             <Grid col={3}>
-                {cards.map((item, i) => <CardLink item={item} key={i} />)}
+                {cards.map((item, i) => (
+                    <CardLink item={item} key={i} />
+                ))}
             </Grid>
         </Page>
     )
