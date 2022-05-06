@@ -3,7 +3,7 @@ import React, { useContext, useState } from "react"
 import { Link as RouterLink } from "react-router-dom"
 import styled from "@emotion/styled"
 import { DropdownContainer, Dropdown, Button } from "tsx-library-julseb"
-// import { getFirstName } from "ts-utils-julseb"
+import { getFirstName } from "js-utils-julseb"
 
 // API
 import { AuthContext } from "../../context/auth"
@@ -39,8 +39,7 @@ const DropdownHeader = props => {
                 noPadding
                 onClick={() => setIsOpen(!isOpen)}
             >
-                {/* {getFirstName(user.fullName)} */}
-                {user.fullName}
+                {getFirstName(user.fullName)}
             </Button>
 
             <DropdownStyled isOpen={isOpen}>

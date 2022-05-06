@@ -1,7 +1,7 @@
 // Packages
 import React, { useState, useEffect } from "react"
 import { Grid, Input, TabsContent } from "tsx-library-julseb"
-import { unslugify } from "ts-utils-julseb"
+import { unslugify } from "js-utils-julseb"
 
 // API
 import recipeService from "../../api/recipe.service"

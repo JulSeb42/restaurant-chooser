@@ -8,7 +8,7 @@ import {
     Grid,
     Variables,
 } from "tsx-library-julseb"
-import { getRandom, unslugify } from "ts-utils-julseb"
+import { getRandom, unslugify } from "js-utils-julseb"
 
 // API
 import recipeService from "../../api/recipe.service"

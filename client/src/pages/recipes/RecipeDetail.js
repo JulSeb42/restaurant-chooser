@@ -9,7 +9,7 @@ import {
     Variables,
     MarkdownContainer,
 } from "tsx-library-julseb"
-import { unslugify } from "ts-utils-julseb"
+import { unslugify } from "js-utils-julseb"
 
 // API
 import recipeService from "../../api/recipe.service"

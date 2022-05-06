@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react"
 import { useParams } from "react-router-dom"
 import { PageLoading, Grid, Variables, Flexbox, Font } from "tsx-library-julseb"
-import { unslugify } from "ts-utils-julseb"
+import { unslugify } from "js-utils-julseb"
 
 // API
 import deliveryService from "../../api/delivery.service"

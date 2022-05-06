@@ -3,7 +3,7 @@ import React, { useState, useContext, useEffect } from "react"
 import axios from "axios"
 import { useNavigate } from "react-router-dom"
 import { Font, Form, Input, Autocomplete, Alert } from "tsx-library-julseb"
-import { getRandom } from "ts-utils-julseb"
+import { getRandom } from "js-utils-julseb"
 
 // API
 import { AuthContext } from "../../context/auth"

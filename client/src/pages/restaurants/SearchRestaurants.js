@@ -1,7 +1,7 @@
 // Packages
 import React, { useState, useEffect, useContext } from "react"
 import { Font, PageLoading, Button, Input, Grid } from "tsx-library-julseb"
-import { getRandom, unslugify } from "ts-utils-julseb"
+import { getRandom, unslugify } from "js-utils-julseb"
 
 // API
 import { AuthContext } from "../../context/auth"

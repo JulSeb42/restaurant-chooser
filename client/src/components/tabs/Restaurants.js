@@ -1,7 +1,7 @@
 // Packages
 import React, { useState, useEffect, useContext } from "react"
 import { Grid, Input, TabsContent } from "tsx-library-julseb"
-import { unslugify } from "ts-utils-julseb"
+import { unslugify } from "js-utils-julseb"
 
 // API
 import { AuthContext } from "../../context/auth"
