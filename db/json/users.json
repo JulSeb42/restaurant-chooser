@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "email": "julien.sebag@me.com",
+  "fullName": "Julien Sebag",
+  "city": "Berlin",
+  "password": "$2a$10$pCntkdGjUTWBI7zmL.HGBuccRQLGiB53lAjBEU3UHK0ajLr34uBSK",
+  "verified": true,
+  "verifyToken": "YKbxuW86hwS0S5Th5bdk",
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650967484548"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651081873279"
+    }
+  },
+  "area": "Moabit"
+}]

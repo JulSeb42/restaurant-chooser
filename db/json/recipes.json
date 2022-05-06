@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cada"
+  },
+  "name": "French toast",
+  "cuisine": [
+    "french",
+    "breakfast",
+    "brunch",
+    "sweet"
+  ],
+  "ingredients": [
+    "bread",
+    "egg",
+    "sugar",
+    "cinnamon",
+    "milk"
+  ],
+  "preparationTime": 5,
+  "cookingTime": 10,
+  "picture": "https://www.einfachbacken.de/sites/einfachbacken.de/files/styles/full_width_tablet_4_3/public/2020-02/french-toast_retusche-1.jpg?h=4521fff0&itok=Mb5dzWE1",
+  "link": "https://www.allrecipes.com/recipe/7016/french-toast-i/",
+  "instructions": "",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cadb"
+  },
+  "name": "Bacon cheeseburger",
+  "cuisine": [
+    "fat",
+    "hangover",
+    "burger"
+  ],
+  "ingredients": [
+    "ground-beef",
+    "cheese",
+    "burger-bun",
+    "bacon",
+    "salad",
+    "onion",
+    "barbecue-sauce"
+  ],
+  "preparationTime": 5,
+  "cookingTime": 5,
+  "picture": "https://www.eatclub.tv/wp-content/uploads/sites/4/2022/02/smashed-bacon-cheeseburger-e1643900202537.jpg",
+  "link": "https://www.simplyrecipes.com/bacon-cheeseburger-recipe-5189497",
+  "instructions": "",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cadc"
+  },
+  "name": "Cordon bleu",
+  "cuisine": [
+    "french",
+    "fat"
+  ],
+  "ingredients": [
+    "ham",
+    "chicken",
+    "bechamel-sauce",
+    "breadcrumbs",
+    "oil",
+    "salt",
+    "pepper"
+  ],
+  "preparationTime": 20,
+  "cookingTime": 20,
+  "picture": "https://hips.hearstapps.com/hmg-prod/images/190523-chicken-cordon-bleu-098-horizontal-1559068476.png",
+  "link": "https://tasty.co/recipe/crispy-creamy-chicken-cordon-bleu",
+  "instructions": "",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cadd"
+  },
+  "name": "Gyoza",
+  "cuisine": [
+    "asian",
+    "dumpling"
+  ],
+  "ingredients": [
+    "ground-meat",
+    "sake",
+    "salt",
+    "sugar",
+    "garlic",
+    "ginger",
+    "soy-sauce",
+    "sesame-oil",
+    "potato-starch",
+    "cabbage",
+    "chives",
+    "dumpling-paste"
+  ],
+  "preparationTime": 60,
+  "cookingTime": 10,
+  "picture": "https://www.justonecookbook.com/wp-content/uploads/2020/04/Gyoza-3112-I.jpg",
+  "link": "https://tasty.co/recipe/gyoza-dumplings",
+  "instructions": "",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cade"
+  },
+  "name": "Vegan cordon bleu",
+  "cuisine": [
+    "vegan",
+    "quick",
+    "store-bought"
+  ],
+  "ingredients": [
+    "vegan-cordon-bleu"
+  ],
+  "preparationTime": 1,
+  "cookingTime": 5,
+  "picture": "https://cdn.ruegenwalder.de/binaries/_ht_1632728079982/xxl/vegetarische-produkte/vegane-muehlen-cordon-bleu.jpg",
+  "link": "",
+  "instructions": "Simply put it on a pan or deep fry it.",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "626e90326383f4c4e9a5cadf"
+  },
+  "name": "Vegan schnitzel",
+  "cuisine": [
+    "vegan",
+    "quick",
+    "store-bought"
+  ],
+  "ingredients": [
+    "vegan-schnitzel"
+  ],
+  "preparationTime": 1,
+  "cookingTime": 5,
+  "picture": "https://eu-central-1.linodeobjects.com/veggie-stars-bucket/images/rugenwalder-muhle-vegane-muhlen-schnitzel-180g_2021-12-28_185949.png",
+  "link": "",
+  "instructions": "Simply put it on a pan or deep fry it.",
+  "poster": {
+    "$oid": "6267c3bc8f2106c5e9f8b7c8"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1651413042615"
+    }
+  }
+}]
