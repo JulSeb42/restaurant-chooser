@@ -68,6 +68,47 @@ const SearchDeliveries = () => {
 
     const randomId = getRandom(results.map(delivery => delivery._id))
 
+    // Filter area by city
+    let filteredAreas = allAreas
+
+    if (city !== "all") {
+        filteredAreas = [
+            ...new Set(
+                allDeliveries
+                    .filter(delivery => delivery.city === city)
+                    .map(delivery => delivery.area)
+                    .sort()
+            ),
+        ]
+    }
+
+    // Filter cuisines by selected city and area
+    let filteredCuisines = allCuisines
+
+    if (city !== "all") {
+        filteredCuisines = [
+            ...new Set(
+                allDeliveries
+                    .filter(delivery => delivery.city === city)
+                    .map(delivery => delivery.cuisine)
+                    .sort()
+                    .flat()
+            ),
+        ]
+    }
+
+    if (area !== "all") {
+        filteredCuisines = [
+            ...new Set(
+                allDeliveries
+                    .filter(delivery => delivery.area === area)
+                    .map(delivery => delivery.cuisine)
+                    .sort()
+                    .flat()
+            ),
+        ]
+    }
+
     return (
         <Page title="Search Deliveries">
             {isLoading ? (
@@ -84,6 +125,7 @@ const SearchDeliveries = () => {
                             value={city}
                         >
                             <option value="all">All</option>
+
                             {allCities.map((city, i) => (
                                 <option value={city} key={i}>
                                     {unslugify(city)}
@@ -98,7 +140,8 @@ const SearchDeliveries = () => {
                             value={area}
                         >
                             <option value="all">All</option>
-                            {allAreas.map((area, i) => (
+
+                            {filteredAreas.map((area, i) => (
                                 <option value={area} key={i}>
                                     {unslugify(area)}
                                 </option>
@@ -113,7 +156,7 @@ const SearchDeliveries = () => {
                         >
                             <option value="all">All</option>
 
-                            {allCuisines.map((cuisine, i) => (
+                            {filteredCuisines.map((cuisine, i) => (
                                 <option value={cuisine} key={i}>
                                     {unslugify(cuisine)}
                                 </option>
