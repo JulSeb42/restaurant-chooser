@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Seoul Garden",
+        "cuisine": ["korean", "asian"],
+        "address": "Knesebeckstraße 16",
+        "area": "Charlottenburg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/18/7e/8f/38/seoul-garden.jpg",
+        "website": "https://www.seoulgarden-berlin.de/",
+        "menu": "https://www.seoulgarden-berlin.de/"
+    },
+    {
+        "name": "Son Kitchen",
+        "cuisine": ["korean", "street food", "asian", "burger", "tacos"],
+        "address": "Kanstraße 46",
+        "area": "Charlottenburg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/11/f0/c6/e7/menu.jpg",
+        "website": "https://sonkitchen.de/",
+        "menu": "https://sonkitchen.de/flagship-store"
+    },
+    {
+        "name": "Hako Ramen",
+        "cuisine": ["japanese", "ramen", "asian"],
+        "address": "Kastaniealle 16",
+        "area": "Prenzlauer Berg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/1d/4f/f7/62/tantan-ramen.jpg",
+        "website": "https://www.hakoramenberlin.de/",
+        "menu": "https://www.hakoramenberlin.de/menue-1"
+    },
+    {
+        "name": "Takumi nine",
+        "cuisine": ["japanese", "ramen", "asian"],
+        "address": "Pappelallee 19",
+        "area": "Prenzlauer Berg",
+        "city": "Berlin",
+        "picture": "https://berlinfoodstories.com/wp-content/uploads/2016/02/Takumi-Nine-Berlin-Sapporo-MIso-Ramen.jpg",
+        "website": "https://www.takuminineberlin.de/",
+        "menu": "https://www.takuminineberlin.de/_files/ugd/d76b60_1baf1d3b222b4144bb5f7c96c7c3f483.pdf"
+    },
+    {
+        "name": "Umami",
+        "cuisine": ["asian", "vietnamese"],
+        "address": "Knaackstraße 16",
+        "area": "Prenzlauer Berg",
+        "city": "Berlin",
+        "picture": "https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/43331221_321723325073056_4814535541406040064_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=PUn0uUU3t8AAX-VYJF9&_nc_ht=scontent-ber1-1.xx&oh=00_AT-R55FRwKXILza3ZXzrwgQtNglwvHspDDuLO9Wk7sbRog&oe=628C2534",
+        "website": "https://www.facebook.com/umamirestaurantpberg",
+        "menu": "https://www.facebook.com/umamirestaurantpberg/photos/p.889776498267733/889776498267733"
+    },
+    {
+        "name": "La Cantine d'Augusta",
+        "cuisine": ["cheese", "french", "raclette"],
+        "address": "Langenscheidtstraße 6A",
+        "area": "Schoneberg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/10/cb/b0/e7/la-cantine-d-augusta.jpg",
+        "website": "https://lacantinedaugusta.com/",
+        "menu": "https://lacantinedaugusta.com/pages/speisekarte"
+    },
+    {
+        "name": "Alt Berliner Wirthaus Henne",
+        "cuisine": ["fried chicken", "german"],
+        "address": "Leuschnerdamm 25",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://www.golocal.de/media/2cf89f7bbfa9cc46a44dad17ed99904b/1500fitsq/3a3cc77708871de.jpg",
+        "website": "https://henne-berlin.de/",
+        "menu": "https://henne-berlin.de/speisekarte.html"
+    },
+    {
+        "name": "Mustafa Demir's Gemuse Kebap",
+        "cuisine": ["döner"],
+        "address": "Adalberstraße 6",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-p/07/f4/fe/21/mustafa-demir-s-gemuse.jpg",
+        "website": "https://www.mustafademirs-gemuesekebap.de/",
+        "menu": "https://www.mustafademirs-gemuesekebap.de/speisekarte"
+    },
+    {
+        "name": "Burgermeister",
+        "cuisine": ["burger"],
+        "address": "Skalitzer Straße 136",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://burger-meister.de/wp-content/uploads/2021/04/Burgermeister-Closeup.jpg",
+        "website": "https://burger-meister.de/",
+        "menu": "https://burger-meister.de/menu/"
+    },
+    {
+        "name": "Kimchi Princess",
+        "cuisine": ["korean", "barbecue", "korean barbecue"],
+        "address": "Skalitzer Straße 36",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://images.squarespace-cdn.com/content/v1/570bc353746fb9e6317f70e8/1591180777714-HNI6TBDWEKGCKSS5D04C/KP_i3-2_uli_kohl.jpg?format=2500w",
+        "website": "http://www.kimchiprincess.com/",
+        "menu": "http://www.kimchiprincess.com/"
+    },
+    {
+        "name": "Ssam Korean Barbeque",
+        "cuisine": ["korean", "korean barbecue", "barbecue"],
+        "address": "Kottbusser Damm 96",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://images.otstatic.com/prod1/46907387/2/large.jpg",
+        "website": "https://www.ssam-bbq.de/",
+        "menu": "https://www.facebook.com/SsamKoreanBarbeque/photos/p.1307332956273553/1307332956273553"
+    },
+    {
+        "name": "Element Five",
+        "cuisine": ["vegan", "vietnamese", "tapas", "asian"],
+        "address": "Skalitzer Straße 46b",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/19/66/2b/65/photo0jpg.jpg",
+        "website": "https://www.element-five.de/",
+        "menu": "https://www.lieferando.de/en/menu/element-five"
+    },
+    {
+        "name": "Con Tho",
+        "cuisine": ["asian", "vegetarian", "vietnamese"],
+        "address": "Hasenheide 16",
+        "area": "Kreuzberg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/18/4f/a0/2f/photo0jpg.jpg",
+        "website": "http://con-tho-restaurant.de/",
+        "menu": "http://con-tho-restaurant.de/wp-content/uploads/2019/06/Men%C3%BC-DEU-ENG-Homepage-17.06.19.pdf"
+    },
+    {
+        "name": "Shiso Burger",
+        "cuisine": ["asian", "burger"],
+        "address": "Kantstraße 51",
+        "area": "Charlottenburg",
+        "city": "Berlin",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/16/9c/c1/b6/shiso-burger-combine.jpg",
+        "website": "https://www.shisoburger.de/",
+        "menu": "https://www.shisoburger.de/menue-2/"
+    },
+    {
+        "name": "Shiso Burger",
+        "cuisine": ["asian", "burger"],
+        "address": "Bugenhagenstraße 23",
+        "area": "Mitte",
+        "city": "Hamburg",
+        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/16/9c/c1/b6/shiso-burger-combine.jpg",
+        "website": "https://www.shisoburger.de/",
+        "menu": "https://www.shisoburger.de/menue-2/"
+    }
+]

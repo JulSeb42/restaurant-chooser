@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Doan Restaurant",
+        "cuisine": ["asian", "sushi"],
+        "area": "Moabit",
+        "city": "Berlin",
+        "app": "Uber Eats",
+        "link": "https://ubereats.app.link/VkuQeygAupb",
+        "picture": "https://d1ralsognjng37.cloudfront.net/7b0da02d-3ace-4920-8dda-638b9bb94685.jpeg"
+    },
+    {
+        "name": "Chibee",
+        "cuisine": ["asian", "korean", "fried chicken"],
+        "area": "Moabit",
+        "city": "Berlin",
+        "app": "Uber Eats",
+        "link": "https://ubereats.app.link/LxFdTfF8xpb",
+        "picture": "https://sattundfroh.de/wp-content/uploads/2018/04/chicken-beer-4.jpg"
+    },
+    {
+        "name": "O'Tacos",
+        "cuisine": ["french tacos", "fat"],
+        "area": "Moabit",
+        "city": "Berlin",
+        "app": "Uber Eats",
+        "link": "https://ubereats.app.link/vHUiTxW4npb",
+        "picture": "https://imageproxy.wolt.com/venue/61488bcbab8cb59de1142824/29393e00-1a2a-11ec-9a90-f2f8c204c7d9_2.jpeg"
+    },
+    {
+        "name": "Burgermeister",
+        "cuisine": ["burger", "fat"],
+        "area": "Moabit",
+        "city": "Berlin",
+        "app": "Uber Eats",
+        "link": "https://ubereats.app.link/DuQeQ4uDTmb",
+        "picture": "https://burger-meister.de/wp-content/uploads/2021/04/Burgermeister-Closeup.jpg"
+    },
+    {
+        "name": "Five Guys",
+        "cuisine": ["burger", "fat"],
+        "area": "Moabit",
+        "city": "Berlin",
+        "app": "Wolt",
+        "link": "https://wolt.com/de/deu/berlin/restaurant/five-guys-kudamm",
+        "picture": "https://www.berlin.de/binaries/asset/image_assets/5558028/source/1539590758/624x468/"
+    }
+]
