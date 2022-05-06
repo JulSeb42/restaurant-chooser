@@ -16,8 +16,13 @@ require("./config")(app)
 
 // 👇 Start handling routes here
 // Contrary to the views version, all routes are controlled from the routes/index.js
-const allRoutes = require("./routes")
+const allRoutes = require("../routes")
 app.use("/api", allRoutes)
+
+app.get("/api", (req, res) => {
+    res.setHeader("Content-Type", "text/html")
+    res.setHeader("Cache-Control", "s-max-age=1, stale-while-revalidate")
+})
 
 // Deploy Heroku
 const path = require("path")
